@@ -1,2 +1,2 @@
 # python-course-work
-All assignments and course projects from python beginner course
+Course projects from python beginner course
